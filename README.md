@@ -23,6 +23,8 @@
 
 ## 📦 Установка и запуск
 
+Проект реализован в виде одного файла с исходным кодом на C#.
+
 1. Клонировать репозиторий:
    ```bash
    git clone https://github.com/krawilya-crypto/telegram-bot-trainee.git
